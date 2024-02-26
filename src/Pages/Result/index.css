@@ -1,0 +1,48 @@
+.card{
+    width: 15rem;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+#your-result{
+    background-color: rgb(99, 99, 173);
+    text-align: center;
+    color: white;
+    
+}
+.rating-circle{
+    background-color: rgb(52, 52, 128);
+    border-radius: 50%;
+    width: 7rem;
+    height: 7rem;
+    margin: auto;
+    padding: 1rem;
+}
+.rating-circle p{
+    font-weight: 0.4rem;
+    font-size: small;
+}
+
+
+
+.elements{
+    display: flex;
+    width: 100%;
+    height: 2.5rem;
+    margin: 1rem 0;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0.5rem;
+    background-color: antiquewhite;
+
+
+}
+
+.continue-btn{
+    background-color: rgb(28, 28, 111);
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    width: 100%;
+    height: 2.5rem;
+}
